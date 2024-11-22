@@ -25,9 +25,9 @@
 ## 🔧 Skills
 
 - **Languages:** Python, Kotlin, C#, Swift.  
-- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap.  
+- **Web Technologies:** HTML, CSS, Bootstrap.  
 - **Mobile Development:** Flutter, Kotlin, Swift.  
-- **AI & Machine Learning:** TensorFlow, YOLOv8, NumPy.  
+- **AI & Machine Learning:** TensorFlow, YOLOv8, NumPy, OpenCV.  
 - **Game Development:** Unity (2D/3D).  
 - **Backend Technologies:** Node.js, FastAPI.  
 
