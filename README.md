@@ -8,15 +8,15 @@
 
 ## ✨ Featured Projects
 
-- **[Smart Building Management App](https://github.com/yourusername/smart-building-management-app)**  
+- **[Smart Building Management App](https://github.com/goldsword27/smart-building-automation)**  
   A mobile app for managing smart building systems.  
   **Tech Stack:** Kotlin, Node.js, MongoDB.  
 
-- **[Fabric Defect Detection System](https://github.com/yourusername/fabric-defect-detection-system)**  
+- **[Fabric Defect Detection System](https://github.com/goldsword27/YOLOv8-MobileApp)**  
   Machine learning model for automated fabric defect detection.  
   **Tech Stack:** Python, TensorFlow, NumPy.  
 
-- **[2D Mobile Platform Game](https://github.com/yourusername/2d-mobile-platform-game)**  
+- **[2D Mobile Platform Game](https://github.com/goldsword27/red-in-sky-2d-platformer)**  
   An engaging platformer game developed with Unity.  
   **Tech Stack:** Unity, C#.  
 
