@@ -1,6 +1,6 @@
 # Hi, I'm Mehmet Altınkılıç! 👋
 
-🚀 2nd-year Mobile Technologies student at Trakya University.  
+🚀 Senior year Mobile Technologies student at Trakya University.  
 🌟 Passionate about IoT, AI, and mobile app development.  
 📚 Currently learning new technologies and building exciting projects to expand my skills.
 
