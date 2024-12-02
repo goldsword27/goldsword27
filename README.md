@@ -1,7 +1,7 @@
 # Hi, I'm Mehmet Altınkılıç! 👋
 
 🚀 Senior year Mobile Technologies student at Trakya University.  
-🌟 Passionate about IoT, AI, and mobile app development.  
+🌟 Passionate about Internet of Things, Deep Learning and cross-platform app development.  
 📚 Currently learning new technologies and building exciting projects to expand my skills.
 
 ---
