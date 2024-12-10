@@ -10,7 +10,7 @@
 
 - **[Smart Building Management App](https://github.com/goldsword27/smart-building-automation)**  
   A mobile app for managing smart building systems.  
-  **Tech Stack:** Kotlin, Node.js, MongoDB.  
+  **Tech Stack:** Kotlin, Node.js, MySQL.  
 
 - **[Fabric Defect Detection System](https://github.com/goldsword27/YOLOv8-MobileApp)**  
   Machine learning model for automated fabric defect detection.  
