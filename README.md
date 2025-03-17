@@ -1,8 +1,7 @@
 # Hi, I'm Mehmet 👋
 
-🚀 Senior year Mobile Technologies student at Trakya University.  
- Passionate about Internet of Things, Deep Learning and cross-platform app development.  
- Currently learning new technologies and building exciting projects to expand my skills.
+🚀 Passionate about Internet of Things, Deep Learning and cross-platform app development.  
+   Currently learning new technologies and building exciting projects to expand my skills.
 
 ---
 
