@@ -1,5 +1,5 @@
 # Hi, I'm Mehmet 👋
-
+Intern at sechard.com
 🚀 Passionate about Internet of Things, Deep Learning and cross-platform app development.  
    Currently learning new technologies and building exciting projects to expand my skills.
 
