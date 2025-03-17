@@ -1,12 +1,12 @@
-# Hi, I'm Mehmet Altınkılıç! 👋
+# Hi, I'm Mehmet 👋
 
 🚀 Senior year Mobile Technologies student at Trakya University.  
-🌟 Passionate about Internet of Things, Deep Learning and cross-platform app development.  
-📚 Currently learning new technologies and building exciting projects to expand my skills.
+ Passionate about Internet of Things, Deep Learning and cross-platform app development.  
+ Currently learning new technologies and building exciting projects to expand my skills.
 
 ---
 
-## ✨ Featured Projects
+##  Featured Projects
 
 - **[Smart Building Management App](https://github.com/goldsword27/smart-building-automation)**  
   A mobile app for managing smart building systems.  
@@ -30,14 +30,6 @@
 - **AI & Machine Learning:** TensorFlow, YOLOv8, NumPy, OpenCV.  
 - **Game Development:** Unity (2D/3D).  
 - **Backend Technologies:** Node.js, FastAPI.  
-
----
-
-## 📫 Contact Me
-
-- **Email:** mehmetaltnklc@gmail.com  
-- **LinkedIn:** [Mehmet Altınkılıç](https://www.linkedin.com/in/mehmet-altınkılıç-99b5a5288)  
-- **GitHub:** [Mehmet Altınkılıç](https://github.com/goldsword27)  
 
 ---
 
