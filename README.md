@@ -37,5 +37,5 @@
 
 🤝 Yeni projelere daima açığım. İletişime geçmekten çekinmeyin!
 
-📷 [Instagram](https://instagram.com/iamschwert) • 🚀 [GitHub](https://github.com/goldsword27)
+📷 [Instagram](https://instagram.com/iamschwert) [GitHub](https://github.com/goldsword27)
 
