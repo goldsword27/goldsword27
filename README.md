@@ -2,7 +2,7 @@
 
 🎓 **Sechard.com'da Stajyer | Yazılım Geliştirici & Yapay Zekâ Meraklısı | GPA: 3.82**
 
-🚀 **IoT**, **Derin Öğrenme** ve **Cross-platform uygulama geliştirme** alanlarına tutkuluyum.  
+🚀 Nesnelerin İnterneti (IoT), Otonom Robotlar, Otonom Masaüstü Yazılımları, Full-Stack Geliştirme, mobil uygulama geliştirme gibi alanlara tutkuluyum. 
 📚 Sürekli yeni teknolojiler keşfediyor, projeler geliştiriyor ve öğrenmeye devam ediyorum!
 
 ---
@@ -39,4 +39,3 @@
 
 📷 [Instagram](https://instagram.com/iamschwert) • 🚀 [GitHub](https://github.com/goldsword27)
 
-> **Birlikte kodlayarak geleceği şekillendirelim!** ✨
